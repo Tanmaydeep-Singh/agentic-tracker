@@ -1,13 +1,6 @@
-Got it 🚀 For your **agentic-tracker** project, here’s a first draft of an awesome `README.md` file with ASCII art, clear sections, and a professional yet hacker-style vibe. You can adjust details (like features, installation steps, or license) as the project evolves.
 
----
 
-# `README.md`
-
-```markdown
 # ⚡ Agentic Tracker ⚡
-
-```
 
 ```
   ___                 _       _         _______             _             
@@ -19,12 +12,11 @@ Got it 🚀 For your **agentic-tracker** project, here’s a first draft of an a
                                                                           
 ```
 
-````
 
 **Agentic Tracker** is a CLI-first experiment built with **SOLID principles** ⚙️  
 It connects with GitHub repositories of your choice and uses documents (like SRS or project specs) as a source of truth to **track project progress** in a smart, agentic way.
 
----
+
 
 ## ✨ Features
 
@@ -77,7 +69,6 @@ Commands (WIP):
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
----
 
 ## 📜 License
 
@@ -87,6 +78,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 > *“Track progress like an agent, deliver like a legend.”* ⚡
 
-```
 
 ---

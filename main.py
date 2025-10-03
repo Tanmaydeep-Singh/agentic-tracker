@@ -33,6 +33,7 @@ def main():
     repo = RepoConnector(args.token, args.repo)
     issues = repo.get_issues()
     commits = repo.get_commits()
+    print(f"COMMITS: {commits}")
 
     # Step 4: Track progress
     tracker = ProgressTracker(tasks)
